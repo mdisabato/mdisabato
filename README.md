@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @mdisabato
+- 👀 I’m interested in home automation
+- 🌱 I’m currently learning Raspberry Pis, Linux
+- 💞️ I’m looking to collaborate on creating an "age in place" home that cares for the occupants.
+- 📫 How to reach me: mdisabato at dellamente com
+- Currently a macOS/iOS/iPadOS user. Not much of a coder unless you need some COBOL work. :)
+- Retired after 50 years in IT
